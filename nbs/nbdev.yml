@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "CSCI535_hw7"
+  site-url: "https://gmenderson.github.io/CSCI535_hw7"
+  description: "nbdev tutorial"
+  repo-branch: main
+  repo-url: "https://github.com/gmenderson/CSCI535_hw7"
